@@ -1,4 +1,3 @@
-Assignment 2 :
 
 Sources :
 1. Stackoverflow
