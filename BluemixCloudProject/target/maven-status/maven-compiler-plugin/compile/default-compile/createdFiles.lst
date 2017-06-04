@@ -1,0 +1,6 @@
+wasdev\sample\servlet\SimpleServlet.class
+wasdev\sample\servlet\DeleteServlet.class
+wasdev\sample\servlet\HashCode.class
+wasdev\sample\servlet\UploadServlet.class
+wasdev\sample\servlet\DownloadServlet.class
+wasdev\sample\servlet\CloudantClientMgr.class
